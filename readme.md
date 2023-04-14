@@ -25,9 +25,6 @@
 
     - Sppread Operator
 
-
-
-
 ## Array MEthod Map Filter Find forEach 
 
     - Map (Return)
